@@ -1,0 +1,8 @@
+{
+  "token": "TOKEN",
+  "developers": ["USER_ID"],
+  "prefix": "PREFIX",
+  "status": "STATUS",
+  "botInvite": "BOT_INVITE_LINK",
+  "unkownCommandResponse": "UNKOWN_COMMAND_RESPONSE"
+}
