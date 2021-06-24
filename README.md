@@ -1,1 +1,3 @@
-# My-Discord-Bot
+# Ilyas-Bot
+
+Ilya's Discord Bot
